@@ -27,7 +27,7 @@ FarmTechSolutions_Fase7/
 ├─ fase4_dashboard_ml/
 ├─ fase5_cloud_aws/
 ├─ fase6_vision/
-└─ video_apresentacao/
+
 ```
 
 ---
@@ -90,14 +90,9 @@ streamlit run main_dashboard.py
 
 ---
 
-# 🎥 Vídeo de Apresentação  
-Link: *adicione o link não listado do YouTube aqui*
-
----
 
 # 📑 Envio para a FIAP  
-- Link do GitHub em PDF  
-- Não fazer commits após o prazo  
+- Link do GitHub em PDF   
 
 ---
 

@@ -29,3 +29,6 @@ Configurações necessárias:
 
 ### 3. **Ambiente local**
 Adicionar no sistema:
+export AWS_ACCESS_KEY_ID="SUACHAVE"
+export AWS_SECRET_ACCESS_KEY="SUACHAVE"
+export SNS_TOPIC_ARN="arn:aws:sns:REGIÃO:ID:farmtech-alertas"
