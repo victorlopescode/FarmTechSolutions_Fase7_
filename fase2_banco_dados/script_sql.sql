@@ -1,0 +1,9 @@
+
+
+CREATE TABLE LEITURA (
+    ID_LEITURA      INTEGER PRIMARY KEY,
+    DATA_HORA       TIMESTAMP,
+    UMIDADE         NUMERIC(5,2),
+    NUTRIENTES      NUMERIC(5,2),
+    PH              NUMERIC(4,2)
+);
